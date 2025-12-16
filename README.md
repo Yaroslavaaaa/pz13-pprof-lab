@@ -75,7 +75,7 @@
 <img width="618" height="332" alt="2025-12-16_16-28-15" src="https://github.com/user-attachments/assets/bd3126d5-1713-4c63-a52e-2061e8fe32be" />
 
 ### Бенчмарки
-<img width="980" height="205" alt="2025-12-16_16-39-55" src="https://github.com/user-attachments/assets/04d8d550-295b-4436-8c78-8b62d0e98191" />
+<img width="959" height="232" alt="2025-12-16_16-58-13" src="https://github.com/user-attachments/assets/f9df1d2f-01fb-480b-8d64-9233810c4a0a" />
 
 ### Top после оптимизации
 <img width="592" height="439" alt="2025-12-16_16-46-45" src="https://github.com/user-attachments/assets/8cacaf9f-7f5d-4ca4-85d2-176e9dc4b182" />
@@ -144,6 +144,7 @@ alloc_space показывает общий объём выделенной па
 
 7. Какой порядок действий при поиске узкого места в производительности?
 Сначала измеряем базовые метрики, интерпретируем отчёт (hot path, тяжёлые аллокации), вносим минимальную оптимизацию, снова измеряем и фиксируем результат.
+
 
 
 
